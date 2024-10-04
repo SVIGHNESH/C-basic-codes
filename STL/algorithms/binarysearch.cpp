@@ -3,13 +3,13 @@
 using namespace std;
 int main(){
 
-    // vector<int>v;
-    // v.push_back(2);
-    // v.push_back(31);
-    // v.push_back(41);
-    // v.push_back(51);
+    vector<int>v;
+    v.push_back(2);
+    v.push_back(31);
+    v.push_back(41);
+    v.push_back(51);
 
-    // cout<<binary_search(v.begin(),v.end(),31)<<endl;
+    cout<<binary_search(v.begin(),v.end(),31)<<endl;
     int a = 4;
     int b = 5;
     cout<<"THe maximum element in the given numbers is "<<max(a,b)<<endl;

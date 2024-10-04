@@ -4,5 +4,6 @@
         "algorithm": "c",
         "format": "c",
         "ostream": "cpp"
-    }
+    },
+    "C_Cpp.errorSquiggles": "disabled"
 }
